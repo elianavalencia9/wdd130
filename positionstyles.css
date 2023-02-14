@@ -96,8 +96,9 @@
   background-color: green;
 } 
 .yellow3 {
-  width: 500px; 
+  width: 450px; 
   height: 200px; 
+  margin-left: 43px;
   background-color: gold; 
 } 
 .blue3 {
